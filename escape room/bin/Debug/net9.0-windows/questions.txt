@@ -1,0 +1,5 @@
+﻿What loop repeats forever?|while
+What keyword is used for conditions?|if
+What loop repeats a fixed number of times?|for
+What symbol means equal comparison?|==
+What stores many values?|array
