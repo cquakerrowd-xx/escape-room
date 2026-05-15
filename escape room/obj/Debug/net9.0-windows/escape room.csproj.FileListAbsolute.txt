@@ -17,3 +17,24 @@ C:\Users\TEMP.DESKTOP-4Q2THFS.001\source\repos\ggame\escape room\obj\Debug\net9.
 C:\Users\TEMP.DESKTOP-4Q2THFS.001\source\repos\ggame\escape room\obj\Debug\net9.0-windows\escape room.pdb
 C:\Users\TEMP.DESKTOP-4Q2THFS.001\source\repos\ggame\escape room\obj\Debug\net9.0-windows\escape room.genruntimeconfig.cache
 C:\Users\TEMP.DESKTOP-4Q2THFS.001\source\repos\ggame\escape room\obj\Debug\net9.0-windows\ref\escape room.dll
+C:\Users\TEMP.DESKTOP-4Q2THFS.001\Source\Repos\escape-room\escape room\bin\Debug\net9.0-windows\questions.txt
+C:\Users\TEMP.DESKTOP-4Q2THFS.001\Source\Repos\escape-room\escape room\bin\Debug\net9.0-windows\escape room.exe
+C:\Users\TEMP.DESKTOP-4Q2THFS.001\Source\Repos\escape-room\escape room\bin\Debug\net9.0-windows\escape room.deps.json
+C:\Users\TEMP.DESKTOP-4Q2THFS.001\Source\Repos\escape-room\escape room\bin\Debug\net9.0-windows\escape room.runtimeconfig.json
+C:\Users\TEMP.DESKTOP-4Q2THFS.001\Source\Repos\escape-room\escape room\bin\Debug\net9.0-windows\escape room.dll
+C:\Users\TEMP.DESKTOP-4Q2THFS.001\Source\Repos\escape-room\escape room\bin\Debug\net9.0-windows\escape room.pdb
+C:\Users\TEMP.DESKTOP-4Q2THFS.001\Source\Repos\escape-room\escape room\obj\Debug\net9.0-windows\escape_room.Form1.resources
+C:\Users\TEMP.DESKTOP-4Q2THFS.001\Source\Repos\escape-room\escape room\obj\Debug\net9.0-windows\escape_room.MainMenu.resources
+C:\Users\TEMP.DESKTOP-4Q2THFS.001\Source\Repos\escape-room\escape room\obj\Debug\net9.0-windows\escape_room.Properties.Resources.resources
+C:\Users\TEMP.DESKTOP-4Q2THFS.001\Source\Repos\escape-room\escape room\obj\Debug\net9.0-windows\escape_room.QuestionForm.resources
+C:\Users\TEMP.DESKTOP-4Q2THFS.001\Source\Repos\escape-room\escape room\obj\Debug\net9.0-windows\escape room.csproj.GenerateResource.cache
+C:\Users\TEMP.DESKTOP-4Q2THFS.001\Source\Repos\escape-room\escape room\obj\Debug\net9.0-windows\escape room.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.DESKTOP-4Q2THFS.001\Source\Repos\escape-room\escape room\obj\Debug\net9.0-windows\escape room.AssemblyInfoInputs.cache
+C:\Users\TEMP.DESKTOP-4Q2THFS.001\Source\Repos\escape-room\escape room\obj\Debug\net9.0-windows\escape room.AssemblyInfo.cs
+C:\Users\TEMP.DESKTOP-4Q2THFS.001\Source\Repos\escape-room\escape room\obj\Debug\net9.0-windows\escape room.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.DESKTOP-4Q2THFS.001\Source\Repos\escape-room\escape room\obj\Debug\net9.0-windows\escape room.sourcelink.json
+C:\Users\TEMP.DESKTOP-4Q2THFS.001\Source\Repos\escape-room\escape room\obj\Debug\net9.0-windows\escape room.dll
+C:\Users\TEMP.DESKTOP-4Q2THFS.001\Source\Repos\escape-room\escape room\obj\Debug\net9.0-windows\refint\escape room.dll
+C:\Users\TEMP.DESKTOP-4Q2THFS.001\Source\Repos\escape-room\escape room\obj\Debug\net9.0-windows\escape room.pdb
+C:\Users\TEMP.DESKTOP-4Q2THFS.001\Source\Repos\escape-room\escape room\obj\Debug\net9.0-windows\escape room.genruntimeconfig.cache
+C:\Users\TEMP.DESKTOP-4Q2THFS.001\Source\Repos\escape-room\escape room\obj\Debug\net9.0-windows\ref\escape room.dll

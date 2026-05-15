@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mDJLdOB/+NU=",
+  "dgSpecHash": "VTF1PzUsQLY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\TEMP.DESKTOP-4Q2THFS.001\\source\\repos\\ggame\\escape room\\escape room.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\TEMP.DESKTOP-4Q2THFS.001\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
-    "C:\\Users\\TEMP.DESKTOP-4Q2THFS.001\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
-    "C:\\Users\\TEMP.DESKTOP-4Q2THFS.001\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
-    "C:\\Users\\TEMP.DESKTOP-4Q2THFS.001\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.11\\microsoft.netcore.app.host.win-x64.9.0.11.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\TEMP.DESKTOP-4Q2THFS.001\\Source\\Repos\\escape-room\\escape room\\escape room.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
